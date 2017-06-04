@@ -1,0 +1,68 @@
+body{
+	font-family: 'Amatic SC', cursive;
+	background-image: url(/public/images/background.jpeg);
+	background-size: cover;
+}
+
+h1{
+	color: #F8ECDE;
+	font-size: 70px;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-weight: lighter;
+}
+
+.date{
+	color: #F8ECDE;
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-weight: lighter;
+}
+
+.rsvp {
+	color: #F8ECDE;
+	font-size: 50px;
+	margin-bottom: 0;
+	margin-top: 0;
+	font-weight: lighter;
+}
+
+a:link{
+	color: #F8ECDE;
+}
+
+
+#countdown{
+	background-color: rgba(130, 142, 140,.5);
+	/*border: 1 solid darkgrey;*/
+	/*border-radius: 1px;*/
+	/*color: #C5D0C1;*/
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.map{
+	float: right;
+	margin-top: 30px;
+	border: 5px solid rgba(130, 142, 140,.5);
+}
+
+.info{
+	background-color: rgba(130, 142, 140,.5);
+	height: 415px;
+	width: 620px;
+	margin-top: 30px;
+}
+
+p{
+	text-align: center;
+	font-size: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0px;
+}
