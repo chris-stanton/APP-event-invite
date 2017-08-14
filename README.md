@@ -1,11 +1,30 @@
 
+# Event Invite App
+
+---
+
+## Description
+##### Simple app used for guests to RSVP to an event.  The app includes a map for directions, and a count down timer that counts down to the event day.  App is written with HTML, CSS and Javascript. App is desktop friendly only.
+
+###### Desktop View:
+
+  <img src="./server/public/images/desktop-one.png" width="50%">
+
+---
+
+##### App can be viewed here: https://event-invite-card.herokuapp.com/
+
+---
+
 ## Technologies Used
   1. CSS/HTML
   2. Javascript
   3. Express
-  5. Node.js
+  4. Node.js
   5. GIT / GitHub
+  6. Heroku
 
+---
 
 ## How To Install App
   1. Download zip file
@@ -14,6 +33,7 @@
     - ``` npm install ``` Installs Node Packages
     - ``` npm start ``` Starts server
     - ``` npm test ``` Starts server using Nodemon
+  4. App is listening on localhost port 5000
 
 ---
 
